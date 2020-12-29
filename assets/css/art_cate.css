@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ body{
+     padding: 15px;
+     background-color: gray;
+ }
+ .layui-card-header{
+     position: relative;
+
+ }
+ #btn_add{
+     position: absolute;
+     right: 10px;
+     top: 50%;
+  transform: translateY(-50%);
+ }
+ #add-cate,#edit-cate{
+  padding-top: 15px;
+  padding-right: 20px;
+ }
